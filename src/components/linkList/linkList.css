@@ -1,0 +1,13 @@
+body {
+    background-color: #f2f2f2;
+}
+
+*:focus {
+    outline: none;
+}
+
+@media screen and (max-width: 900px) {
+    form {
+        width: 100%;
+    }
+}
