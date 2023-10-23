@@ -1,10 +1,12 @@
+import Home from "./pages/Home";
 import AppRoutes from "./routes/AppRoutes";
 
 function App() {
   return (
     <div>
       <header>
-        <AppRoutes />
+        {/* <AppRoutes /> */}
+        <Home/>
       </header>
     </div>
   );

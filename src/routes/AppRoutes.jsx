@@ -8,6 +8,7 @@ function AppRoutes() {
       <Routes>
         <Route path="/" element={<Login />} />
         <Route path="/register" element={<Register />} />
+        
       </Routes>
     </BrowserRouter>
   );
